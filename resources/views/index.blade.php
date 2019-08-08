@@ -43,7 +43,7 @@
 					<section class="second-section">
 						<div class="about">
 							<div class="img-about">
-								<img src="img/me.jpg" alt="rex louis">
+								<img  src="img/me.jpg" alt="rex louis">
 							</div>
 							<div class="p-about">
 								<h2 class="h2-about">WHO IS REX LOUIS?</h2>
@@ -61,73 +61,72 @@
 					<h2 class="h2-works">My Works</h2>
 
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t1"></div></div>
+						<div class="item__img-wrap" id="i1"><div class="item__img item__img--t1"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">Central view</h2>
-							<p class="item__caption-copy">Great turbulent clouds emerged into consciousness citizens.</p>
+							<h2 class="item__caption-title">Katahum</h2>
+							<p class="item__caption-copy">Online Katahum Drafting Organization. A information system for the drafting students.</p>
 						</div>
 					</div>
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t2"></div></div>
+						<div class="item__img-wrap" id="i2"><div class="item__img item__img--t2"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">Lost in time</h2>
-							<p class="item__caption-copy">Brain is the seed of intelligence the sky calls to us a very small stage.</p>
+							<h2 class="item__caption-title">ZAKAT</h2>
+							<p class="item__caption-copy">Web Based Zakat Collection Management System.</p>
 						</div>
 					</div>
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t3"></div></div>
+						<div class="item__img-wrap" id="i3"><div class="item__img item__img--t3"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">Ready to land</h2>
-							<p class="item__caption-copy">Cosmos encyclopaedia galactica a billion trillion culture cosmic ocean.</p>
+							<h2 class="item__caption-title">CJ Ashley Fashion Hub Online Shop</h2>
+							<p class="item__caption-copy">A simple ecommerce for cj ashley fashion hub.</p>
 						</div>
 					</div>
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t1"></div></div>
+						<div class="item__img-wrap" id="i4"><div class="item__img item__img--t1"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">All equal</h2>
-							<p class="item__caption-copy">Network of wormholes dream of the mind's eye finite but unbounded concept.</p>
+							<h2 class="item__caption-title">Hi Thea!</h2>
+							<p class="item__caption-copy">A simple page for valentines I made for her last feb 14, 2017.</p>
 						</div>
 					</div>
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t2"></div></div>
+						<div class="item__img-wrap" id="i5"><div class="item__img item__img--t2"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">Connections</h2>
-							<p class="item__caption-copy">Two ghostly white figures in coveralls and helmets are softly dancing vastness.</p>
+							<h2 class="item__caption-title">Jaag Travel and Tours</h2>
+							<p class="item__caption-copy">Booking System for Jaag Travel and Tours with sms notifications.</p>
 						</div>
 					</div>
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t3"></div></div>
+						<div class="item__img-wrap" id="i6"><div class="item__img item__img--t3"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">The state of divergence</h2>
-							<p class="item__caption-copy">Vastness is bearable only through love invent the universe vanquish.</p>
+							<h2 class="item__caption-title">Foodstuff</h2>
+							<p class="item__caption-copy">An online shop for Foodstuff Tacurong branch with sms notification and android app (webview).</p>
 						</div>
 					</div>
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t1"></div></div>
+						<div class="item__img-wrap" id="i7"><div class="item__img item__img--t1"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">Open perspective</h2>
-							<p class="item__caption-copy">The only home we've ever known concept of the number one.</p>
+							<h2 class="item__caption-title">Gemma Construction Koronadal Inventory System</h2>
+							<p class="item__caption-copy">A simple inventory system for gemma contruction koronadal.</p>
 						</div>
 					</div>
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t3"></div></div>
+						<div class="item__img-wrap" id="i8"><div class="item__img item__img--t3"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">Discovery of shapes</h2>
-							<p class="item__caption-copy">Decipherment explorations tesseract as a patch of light.</p>
+							<h2 class="item__caption-title">MICS Cebu Knowledge Base System</h2>
+							<p class="item__caption-copy">Management Information and Computer Services (MICS) - MICS KNOWLEDGE BASE SYSTEM. Compilation of how to troubleshoot a technical problem.</p>
 						</div>
 					</div>
 					<div class="item">
-						<div class="item__img-wrap"><div class="item__img item__img--t2"></div></div>
+						<div class="item__img-wrap" id="i9"><div class="item__img item__img--t2"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">The Observer</h2>
-							<p class="item__caption-copy">Astonishment muse about dispassionate extraterrestrial observer.</p>
+							<h2 class="item__caption-title">SMS BOMBER</h2>
+							<p class="item__caption-copy">A sms bomber using gsm module.</p>
 						</div>
 					</div>
 				</div>
 			</div>
 		</main>
 		<script src="js/imagesloaded.pkgd.min.js"></script>
-		<script src="js/app.js"></script>
 		<script type="text/javascript" src="js/app.js"></script>
 		
 		<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
