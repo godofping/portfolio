@@ -12,24 +12,29 @@
 		<link rel="stylesheet" type="text/css" href="css/base.css" />
 
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+		<script src="js/modernizr.custom.js"></script>
 
 		<script src="https://cdnjs.﻿cloudflare.com/ajax/libs/gsap/2.0.1/TweenMax.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/2.0.1/TimelineMax.min.js"></script>
 		<link href="https://fonts.googleapis.com/css?family=Raleway:200,400,800&display=swap" rel="stylesheet">
-		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.4/SmoothScroll.min.js">
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.4.9/SmoothScroll.min.js">
 		<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.9"></script>
 		<script>document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
 	
 	</head>
 	<body class="loading">
 
+		
+		
+
 		<main>
 			<div data-scroll>
+
 				<header>
-					<nav>
+					<div class="nav">
 						<h3 id="logo">Rex Louis</h3>
-						<img class="hamburger" src="img/hamburger.svg" alt="hamburger">
-					</nav>
+						<img class="hamburger" id="trigger-overlay" src="img/hamburger.svg" alt="hamburger">	
+					</div>
 
 					<section class="first-section">
 						<div class="hero">
@@ -39,8 +44,10 @@
 					</section>
 				</header>
 
+				
+
 				<div class="slider" id="particles-js"></div>
-					<section class="second-section">
+					<section class="second-section" id="second-section">
 						<div class="about">
 							<div class="img-about">
 								<img  src="img/me.jpg" alt="rex louis">
@@ -56,8 +63,8 @@
 					</section>
 
 
-				<div class="content">
-
+				<div class="content" class="third-section" id="third-section">
+					
 					<h2 class="h2-works">My Works</h2>
 
 					<div class="item">
@@ -152,12 +159,36 @@
 							</p>
 						</div>
 					</div>
+					
+
+
 				</div>
 			</div>
-		</main>
-		<script src="js/imagesloaded.pkgd.min.js"></script>
-		<script type="text/javascript" src="js/app.js"></script>
+
 		
+		
+		</main>
+
+		<div class="overlay overlay-hugeinc">
+			<button id="overlay-close" type="button" class="overlay-close">Close</button>
+			<nav>
+				<ul class="nav-links">
+					<li><a href="/">Home</a></li>
+					<li><a  id="facebook" href="https://www.facebook.com/m1ur7h">Facebook</a></li>
+					<li><a  id="github" href="https://github.com/godofping">Github</a></li>
+					<li><a  id="Linkedin" href="https://www.linkedin.com/in/rexroncesvalles/">Linkedin</a></li>
+
+					
+					
+			</nav>
+		</div>
+
+
+
+		<script src="js/imagesloaded.pkgd.min.js"></script>
+		<script src="js/classie.js"></script>
+		<script type="text/javascript" src="js/app.js"></script>
+		<script type="text/javascript" src="js/snap.svg-min.js"></script>
 		<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 		<script type="text/javascript">
 			/* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
