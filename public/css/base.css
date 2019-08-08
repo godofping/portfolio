@@ -14,7 +14,7 @@ body {
 	--color-bg: #efe6e1;
 	--color-link: #b07656;
 	--color-link-hover: #000;
-	--color-deco: #e4dbd6;
+	--color-deco: #fae3d7;
 	color: var(--color-text);
 	background-color: #fccfa5;
 	font-family: paralucent, sans-serif;
@@ -124,6 +124,7 @@ a:focus {
 	max-width: 100%;
 	position: relative;
 	will-change: transform;
+
 }
 
 .item::before {
@@ -162,7 +163,7 @@ a:focus {
 }
 
 #i3 {
-	--aspect-ratio: 60/75;
+	--aspect-ratio: 85/75;
 	--image: url(../img/3.jpg);
 }
 
@@ -178,7 +179,7 @@ a:focus {
 }
 
 #i6 {
-	width: calc(100vw - 2rem);
+	width: calc(60vw - 2rem);
 	--aspect-ratio: 1500/844;
 	--image: url(../img/6.jpg);
 }
@@ -265,7 +266,7 @@ a:focus {
 	left: 0;
 	width: 100%;
 	height: 100vh;
-	background: linear-gradient(to left, #551246, #3b132f);
+	background: linear-gradient(to left, #0d577c, #12597c);
 	z-index: -1;
 }
 
@@ -360,7 +361,7 @@ nav
 .second-section
 {
 	
-	background-color: #000000;
+	background-color: #32374b;
 	color: white;
 	
 }
@@ -421,8 +422,17 @@ nav
 	font-size: 5rem;
 }
 
+.links
+{
+	font-size: 1.3rem;
+	font-weight: 800;
 
+}
 
+.space
+{
+padding-left: 5%;
+}
 
 @media screen and (max-width: 1024px)
 {

@@ -3,10 +3,10 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Smooth scrolling and inner image animation | Codrops</title>
-		<meta name="description" content="A smooth scrolling and inner image animation effect." />
-		<meta name="keywords" content="smooth scrolling, animation, image effect, web design, tutorial, javascript" />
-		<meta name="author" content="Codrops" />
+		<title>Rex Louis Portfolio</title>
+		<meta name="description" content="Rex Louis Porftfolio website." />
+		<meta name="keywords" content="rex louis portfolio, rex louis roncesvalles, software developer, ghost programmer, freelancer, computer technician" />
+		<meta name="author" content="Rex Louis" />
 		<link rel="shortcut icon" href="favicon.ico">
 		<link rel="stylesheet" href="https://use.typekit.net/qrg0pyh.css">
 		<link rel="stylesheet" type="text/css" href="css/base.css" />
@@ -63,64 +63,93 @@
 					<div class="item">
 						<div class="item__img-wrap" id="i1"><div class="item__img item__img--t1"></div></div>
 						<div class="item__caption">
-							<h2 class="item__caption-title">Katahum</h2>
-							<p class="item__caption-copy">Online Katahum Drafting Organization. A information system for the drafting students.</p>
+							<h2 class="item__caption-title"><a target="_blank" href="https://github.com/godofping/KATAHUM/">Katahum</a></h2>
+							<p class="item__caption-copy">Online Katahum Drafting Organization. An Information System for the drafting students.
+								<br>
+								{{-- <a class="links" target="_blank" href="http://katahum.x10host.com/index.php">Live link</a> <span class="space"></span>  --}}
+								<a class="links" target="_blank" href="https://github.com/godofping/KATAHUM/">Github</a>
+							</p>
+							
 						</div>
 					</div>
 					<div class="item">
 						<div class="item__img-wrap" id="i2"><div class="item__img item__img--t2"></div></div>
 						<div class="item__caption">
 							<h2 class="item__caption-title">ZAKAT</h2>
-							<p class="item__caption-copy">Web Based Zakat Collection Management System.</p>
+							<p class="item__caption-copy">Web Based Zakat Collection Management System.
+								<br>
+								</span> <a class="links" target="_blank" href="https://github.com/godofping/ZAKAT">Github</a>
+							</p>
 						</div>
 					</div>
 					<div class="item">
 						<div class="item__img-wrap" id="i3"><div class="item__img item__img--t3"></div></div>
 						<div class="item__caption">
 							<h2 class="item__caption-title">CJ Ashley Fashion Hub Online Shop</h2>
-							<p class="item__caption-copy">A simple ecommerce for cj ashley fashion hub.</p>
+							<p class="item__caption-copy">A simple ecommerce for cj ashley fashion hub.
+								<br>
+								</span> <a class="links" target="_blank" href="https://github.com/godofping/cj">Github</a>
+							</p>
 						</div>
 					</div>
 					<div class="item">
 						<div class="item__img-wrap" id="i4"><div class="item__img item__img--t1"></div></div>
 						<div class="item__caption">
 							<h2 class="item__caption-title">Hi Thea!</h2>
-							<p class="item__caption-copy">A simple page for valentines I made for her last feb 14, 2017.</p>
+							<p class="item__caption-copy">A simple page for valentines I made for her last feb 14, 2017.
+								<br>
+								</span> <a class="links" target="_blank" href="https://github.com/godofping/hithea">Github</a>
+							</p>
 						</div>
 					</div>
 					<div class="item">
 						<div class="item__img-wrap" id="i5"><div class="item__img item__img--t2"></div></div>
 						<div class="item__caption">
 							<h2 class="item__caption-title">Jaag Travel and Tours</h2>
-							<p class="item__caption-copy">Booking System for Jaag Travel and Tours with sms notifications.</p>
+							<p class="item__caption-copy">Booking System for Jaag Travel and Tours with sms notifications.
+								<br>
+								</span> <a class="links" target="_blank" href="https://github.com/godofping/jaag">Github</a>
+							</p>
 						</div>
 					</div>
 					<div class="item">
 						<div class="item__img-wrap" id="i6"><div class="item__img item__img--t3"></div></div>
 						<div class="item__caption">
 							<h2 class="item__caption-title">Foodstuff</h2>
-							<p class="item__caption-copy">An online shop for Foodstuff Tacurong branch with sms notification and android app (webview).</p>
+							<p class="item__caption-copy">An online shop for Foodstuff Tacurong branch with sms notification and android app (webview).
+								<br>
+								</span> <a class="links" target="_blank" href="https://github.com/godofping/foodstuff">Github</a>
+							</p>
 						</div>
 					</div>
 					<div class="item">
 						<div class="item__img-wrap" id="i7"><div class="item__img item__img--t1"></div></div>
 						<div class="item__caption">
 							<h2 class="item__caption-title">Gemma Construction Koronadal Inventory System</h2>
-							<p class="item__caption-copy">A simple inventory system for gemma contruction koronadal.</p>
+							<p class="item__caption-copy">A simple inventory system for gemma contruction koronadal.
+								<br>
+								</span> <a class="links" target="_blank" href="https://github.com/godofping/GEMMACONSTUCTIONKORONADAL">Github</a>
+							</p>
 						</div>
 					</div>
 					<div class="item">
 						<div class="item__img-wrap" id="i8"><div class="item__img item__img--t3"></div></div>
 						<div class="item__caption">
 							<h2 class="item__caption-title">MICS Cebu Knowledge Base System</h2>
-							<p class="item__caption-copy">Management Information and Computer Services (MICS) - MICS KNOWLEDGE BASE SYSTEM. Compilation of how to troubleshoot a technical problem.</p>
+							<p class="item__caption-copy">Management Information and Computer Services (MICS) - MICS KNOWLEDGE BASE SYSTEM. Compilation of how to troubleshoot a technical problem.
+								<br>
+								</span> <a class="links" target="_blank" href="https://github.com/godofping/mics">Github</a>
+							</p>
 						</div>
 					</div>
 					<div class="item">
 						<div class="item__img-wrap" id="i9"><div class="item__img item__img--t2"></div></div>
 						<div class="item__caption">
 							<h2 class="item__caption-title">SMS BOMBER</h2>
-							<p class="item__caption-copy">A sms bomber using gsm module.</p>
+							<p class="item__caption-copy">A sms bomber using gsm module.
+								<br>
+								</span> <a class="links" target="_blank" href="https://github.com/godofping/SMSBOMBER">Github</a>
+							</p>
 						</div>
 					</div>
 				</div>
